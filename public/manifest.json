@@ -1,0 +1,27 @@
+{
+  "id": "/",
+  "name": "YouTube Audio Studio",
+  "short_name": "AudioStudio",
+  "description": "Professional Web Audio DAW with YouTube audio extraction, 1D to 32D dimensional panner, clean song noise remover, and background playback service.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#090b10",
+  "theme_color": "#090b10",
+  "categories": ["music", "multimedia", "audio", "utilities"],
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "/icon.svg",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml",
+      "purpose": "maskable"
+    }
+  ]
+}

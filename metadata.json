@@ -1,0 +1,6 @@
+{
+  "name": "YouTube Audio Studio",
+  "description": "Professional Web Audio DAW with YouTube audio extraction, background playback service, 1D to 32D dimensional panner, clean song noise remover, slowed & reverb, multi-band EQ, live visualizer, and WAV/WebM export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
